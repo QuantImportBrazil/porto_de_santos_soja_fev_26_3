@@ -1,0 +1,25 @@
+experiment_id,date_max,n_repet,random_state,extra_sufixo_mark,fi_cut,n_fib,corte_fib,n_fib_menor,md_center_f_i,mf_center_f_i,mss_center_f_i,msl_center_f_i,md_center_p_i,mf_center_p_i,mss_center_p_i,msl_center_p_i,tscv,n_iter_t_filter,n_iter_t_pred,amp,metricas
+6101bd2a-cd0f-48c1-8485-5608eb5bb1b4,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,8,8,2,1,11,2,1,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  672.6    749.6  0.3    0.2  1.0  02~mes  817800~geo  12019000~prdt"
+777a8cc3-f21f-46b0-a530-52833dd9f6c9,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,10,10,2,0,8,3,3,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  743.3    664.6  0.6    0.7  0.7  03~mes  817800~geo  12019000~prdt"
+f3d98abd-6cea-4176-a267-9923aa91ffcc,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,12,8,2,2,11,8,1,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"     rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  1080.5   1386.8  0.5    0.1  1.0  04~mes  817800~geo  12019000~prdt"
+8a5933f1-bf33-4bfd-9595-42f5902b105c,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,17,11,1,0,14,7,1,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  824.5    882.6  0.1   -0.0  1.0  05~mes  817800~geo  12019000~prdt"
+b027c8e3-8d67-443e-a523-6f8678866f6c,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,17,15,4,1,16,4,1,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  688.4    738.6  0.3    0.2  1.0  06~mes  817800~geo  12019000~prdt"
+7a9fa7a2-d860-4eb9-8912-2c8969ec0ac0,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,13,14,1,0,16,4,1,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  642.2    773.4  0.3    0.0  1.0  07~mes  817800~geo  12019000~prdt"
+17d7e3ea-18e4-4f3c-b3fa-dc350f79e715,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,13,17,4,1,11,4,1,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  412.3    559.2  0.3   -0.2  1.0  08~mes  817800~geo  12019000~prdt"
+dcf818b6-5b6d-4139-b8d3-aa4d5c2ddef2,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,13,13,4,1,12,12,2,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  325.9    313.9  0.1    0.2  0.9  09~mes  817800~geo  12019000~prdt"
+32679428-d51d-43c8-b4dc-eca7895488b0,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,16,16,1,0,14,12,2,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  438.9    410.2 -0.2   -0.1  0.9  10~mes  817800~geo  12019000~prdt"
+0c8b5953-9185-42fd-89f6-fbcd157604e1,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,10,16,1,1,15,16,1,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  317.9    358.4 -0.0   -0.3  0.7  11~mes  817800~geo  12019000~prdt"
+cf430455-eb50-4622-be05-661b2f50d77f,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,11,16,1,1,13,13,3,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  270.0    281.3  0.3    0.2  0.6  12~mes  817800~geo  12019000~prdt"
+5e9d1e54-d86b-4da9-9cf3-b47c3fb1301a,2026-01-01,15,1,_fev_26_3,0.8,20,2,9,8,15,3,1,8,15,1,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"    rmse  rmse_lr   r2  r2_lr  acc  CO_MES      CO_GEO        CO_PRDT
+0  233.4    319.6 -0.0   -0.9  0.8  01~mes  817800~geo  12019000~prdt"

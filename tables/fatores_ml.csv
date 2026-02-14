@@ -1,0 +1,25 @@
+Mês previsto,var_target,Fator_Influenciador
+01~mes,kt,chuvas - Mês: 01~mes - Local: SP
+01~mes,oc,chuvas - Mês: 01~mes - Local: MA
+02~mes,kt,Mês:02~mes - Porto:SE -Adubos azotados - acumulado ano
+02~mes,oc,chuvas - Mês: 03~mes - Local: RN
+03~mes,kt,chuvas - Mês: 06~mes - Local: MG
+03~mes,oc,chuvas - Mês: 10~mes - Local: RS
+04~mes,kt,"Mês:04~mes - Porto:SP -Algodão, não cardado nem penteado - acumulado trimestre"
+04~mes,oc,chuvas - Mês: 04~mes - Local: PE
+05~mes,kt,Mês:05~mes - Porto:AM -Adubos potássicos - acumulado ano
+05~mes,oc,chuvas - Mês: 04~mes - Local: PE
+06~mes,kt,chuvas - Mês: 05~mes - Local: RS
+06~mes,oc,chuvas - Mês: 02~mes - Local: RS
+07~mes,kt,chuvas - Mês: 11~mes - Local: PI
+07~mes,oc,chuvas - Mês: 10~mes - Local: RS
+08~mes,kt,chuvas - Mês: 04~mes - Local: PR
+08~mes,oc,chuvas - Mês: 07~mes - Local: PE
+09~mes,kt,chuvas - Mês: 02~mes - Local: SP
+09~mes,oc,chuvas - Mês: 03~mes - Local: AM
+10~mes,kt,Mês:10~mes - Porto:RS -Resíduos da extração do óleo de soja - peso ano anterior
+10~mes,oc,chuvas - Mês: 11~mes - Local: MA
+11~mes,kt,chuvas - Mês: 06~mes - Local: GO
+11~mes,oc,chuvas - Mês: 08~mes - Local: MA
+12~mes,kt,chuvas - Mês: 12~mes - Local: MG
+12~mes,oc,chuvas - Mês: 06~mes - Local: RS
